@@ -29,9 +29,9 @@ node_modules
 # Other
 .DS_Store
 .vscode/
-dist/
-lib/
-es/
+# dist/
+# lib/
+# es/
 editor/
 examples/
 _examples/
